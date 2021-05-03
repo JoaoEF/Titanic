@@ -7,6 +7,7 @@ https://www.kaggle.com/c/titanic/overview
 
 ### Titanic.ipynb notebook index:
 
-* [Loading Data](#Loading Data)
+* Loading Data
+* Variable Descriptions
 
 
