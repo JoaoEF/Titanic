@@ -2,7 +2,7 @@
 
 My first Kaggle competition: Use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
-To get more info about the competition click on the link below:
+To get more info about the competition click on the link below:<br>
 https://www.kaggle.com/c/titanic/overview
 
 
