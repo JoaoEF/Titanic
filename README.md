@@ -16,4 +16,4 @@ Titanic.ipynb notebook index:
 6. Modelling<br>
 	6.1. Hyperparameter Tuning<br>
 	6.2. Feature Importance<br>
-		6.2.1. Iteration with most importante features
+	6.2.1. Iteration with most importante features
