@@ -9,6 +9,8 @@ https://www.kaggle.com/c/titanic/overview
 Titanic.ipynb notebook index:
 
 1. Loading Data
+
+1. Loading Data
 2. Variable Descriptions
 3. Missing Values
 4. Correlation between features
