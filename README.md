@@ -24,6 +24,3 @@ https://www.kaggle.com/c/titanic/overview
 6. Modelling <br>
 	6.1. Hyperparameter Tuning <br>
 	6.2. Feature Importance <br>
-		6.2.1. Run model with most importante features
-
-
