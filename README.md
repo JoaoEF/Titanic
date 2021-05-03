@@ -9,3 +9,9 @@ https://www.kaggle.com/c/titanic/overview
 
 Titanic.ipynb notebook index:
 
+# Table of Contents
+
+* [Team Members](#team-members)
+
+# <a name="team-members"></a>Team Members
+* "J. Jesus. P. Aguinaga" <admin@listforks.com>
