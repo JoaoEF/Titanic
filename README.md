@@ -9,12 +9,21 @@ https://www.kaggle.com/c/titanic/overview
 
 1. Loading Data
 2. Variable Descriptions
-3. Missing Values
+3. Missing Values <br>
+	3.1. Age <br>
+	3.2. Cabin <br>
+	3.3. Embarked <br>
 4. Correlation between features
-5. Feature Engineering
+5. Feature Engineering <br>
+	5.1. Sex <br>
+	5.2. Age <br>
+	5.3. Pclass <br>
+	5.4. SibSp and Parch <br>
+	5.5. Embarked <br>
+	5.6. Dropping PassengerId, Name and Ticket <br>
 6. Modelling <br>
 	6.1. Hyperparameter Tuning <br>
 	6.2. Feature Importance <br>
-		6.2.1. Iteration with most importante features
+		6.2.1. Run model with most importante features
 
 
